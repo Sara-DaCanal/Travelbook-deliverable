@@ -1,0 +1,7 @@
+USER STORIES:
+
+1.As a user I want to save my travels, so that I can complete and post them later.
+
+2.As a user I want the possibility to show the trips I selected on maps, so that I can realize how much distance there is between places.
+
+3.As a user I want to search trips that interest me, so that I can find ideas for my travels.
